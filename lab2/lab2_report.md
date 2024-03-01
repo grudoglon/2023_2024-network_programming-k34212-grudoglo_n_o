@@ -8,7 +8,7 @@ Course: [Network programming](https://itmo-ict-faculty.github.io/network-program
 
 Year: 2023/2024
 
-Group: K34211
+Group: K34212
 
 Author: Grudoglo Nikita Olegovich
 
